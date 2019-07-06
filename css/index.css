@@ -1,0 +1,24 @@
+body{
+
+}
+.bk{
+	width: 100.5%;
+	height: 1300px;
+}
+::-webkit-scrollbar{
+	width: 2px;
+	background: none;
+}
+.tp{
+	border: 1px solid #d3d3d3;
+}
+.yxj{
+	position: fixed;
+	bottom: -20px;
+	right: 18px;
+}
+.zxj{
+	position: fixed;
+	bottom: -20px;
+	left:0px;
+}
