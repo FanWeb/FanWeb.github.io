@@ -5,10 +5,11 @@ body{
 	width: 100.5%;
 	height: 1300px;
 }
-::-webkit-scrollbar{
+<!--::-webkit-scrollbar{
 	width: 2px;
 	background: none;
 }
+-->
 .tp{
 	
 }
